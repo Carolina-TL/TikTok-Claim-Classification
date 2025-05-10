@@ -1,2 +1,4 @@
 # TikTok-Claim-Classification
 Classifying TikTok videos as claims or opinions — final project for the Google Advanced Data Analytics Specialisation.
+
+This project was developed as part of the Google Advanced Data Analytics Specialisation. The objective was to build a supervised machine learning model to classify TikTok videos as either claims or opinions. The workflow included data preprocessing, exploratory data analysis (EDA), data visualisation, descriptive statistics, hypothesis testing, feature engineering (including text vectorisation), model training and evaluation using tree-based classifiers, and selecting a final model based on recall performance. The project provides insights into content moderation and the role of engagement metrics and language features in predicting factual content.
